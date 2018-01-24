@@ -1,0 +1,3 @@
+"Double Quotes" - Anything enclose in double quotes removed meaning of that characters (except \ and $).
+'Single quotes' - Enclosed in single quotes remains unchanged.
+`Back quote` - To execute command
